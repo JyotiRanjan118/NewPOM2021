@@ -21,7 +21,7 @@ public class LoginPage extends BasePage {
 		private By emailID=By.id("input-email");
 		private By password=By.id("input-password");
 		private By loginButton = By.xpath("//input[@value='Login' and @type='submit']");
-		private By forgotPwdLink=By.linkText("Forgotten Password");
+		private By forgotPwdLink=By.linkText("Forgotten Password123");
 		private By registerLink = By.linkText("Continue");
 		
 		//2.Constructor of the page class
